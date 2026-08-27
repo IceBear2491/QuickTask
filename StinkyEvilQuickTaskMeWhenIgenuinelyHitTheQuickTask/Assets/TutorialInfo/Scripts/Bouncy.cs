@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Bouncy : MonoBehaviour
+public class PlatformMovement : MonoBehaviour
 {
     public float flingStrength = 15;// degrees per second
     // Start is called once before the first execution of Update after the MonoBehaviour is created
